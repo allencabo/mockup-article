@@ -4,6 +4,15 @@ You've learned a lot about web development so far. I want you to take a moment t
   * What has been difficult?
   * How have you used the problem solving strategies from the first project to overcome challenges so far?
 
+
 ---
 
 Your response goes here!
+  * What new skills have you learned?
+    - Superscript tags Emphasis Tags
+  * What has been easy?
+    - The way html tags have a opening and closing tags. Pretty easy for me to understand.
+  * What has been difficult?
+    - A lot of HTML tags to know
+  * How have you used the problem solving strategies from the first project to overcome challenges so far?
+    - Learning from mistakes.
